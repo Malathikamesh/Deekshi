@@ -1,0 +1,17 @@
+// “Currency” Constructor
+
+public Currency(String nameValue, String shortNameValue) {
+
+this.name = nameValue;
+
+this.shortName = shortNameValue;
+
+}
+
+// Getter for name
+
+public String getName() {
+
+return this.name;
+
+}
